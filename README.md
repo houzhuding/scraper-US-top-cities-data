@@ -49,4 +49,4 @@ After running the main function, input the city number(default is 100) and press
 
 ## Samples procedure 
 ### Data collecting procedure
-See attached pictures : city_parsing.JPG, gui.JPG
+See attached pictures : city_parsing.JPG, gui.JPG, gui2.JPG
