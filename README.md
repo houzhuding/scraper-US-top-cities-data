@@ -46,3 +46,4 @@ After running the main function, input the city number and press the "Search" bu
 
 ## Samples procedure 
 ### Data collecting procedure
+See attached pictures : city_parsing.JPG
