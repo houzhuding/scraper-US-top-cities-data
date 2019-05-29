@@ -42,8 +42,11 @@ There is a simple GUI program which requires Tk.(Also tk in built in libaray in 
 pip install python-tk
 ```
 ### Run the main GUI
-After running the main function, input the city number and press the "Search" button, wait for the program to run for a while, the final data will be automatically saved in a file named "US_cities.txt" with "," as seperator.
+
+Run the main_GUI_CITY_INFO.py will start collecting data.
+
+After running the main function, input the city number(default is 100) and press the "Search" button, wait for the program to run for a while, the final data will be automatically saved in a file named "US_cities.txt" with "," as seperator.
 
 ## Samples procedure 
 ### Data collecting procedure
-See attached pictures : city_parsing.JPG
+See attached pictures : city_parsing.JPG, gui.JPG
